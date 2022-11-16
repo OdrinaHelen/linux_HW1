@@ -1,0 +1,25 @@
+   0 mkdir /home/animals/
+   1 ls /home/
+   2 cd /home/animals/
+   3 mkdir dogs cats fish
+   4 tree /home/
+   5 touch /dogs/pluto
+   6 touch /home/animals/dogs/pluto
+   7 touch /home/animals/cats/garfield
+   8 touch /home/animals/fish/nemo
+   9 tree /home/
+  10 touch /tmp/adam
+  11 ls /tmp/
+  12 cp -r /tmp/adam /home/humans/adam
+  13 cp --help
+  14 mkdir /home/humans
+  15 tree /home/
+  16 cp /tmp/adam /home/humans/adam
+  17 tree /home/
+  18 touch /tmp/evA
+  19 ls /tmp/
+  20 mv /tmp/evA /opt/eve
+  21 ls /opt/
+  22 mv /opt/eve /home/humans/eve
+  23 ls -la /home/humans/
+  24 history >> /tmp/history_hw_16_11_2022.txt
